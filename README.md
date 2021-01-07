@@ -1,4 +1,4 @@
-# for me just for fun.
+这里的fork仅仅为了自己阅读和理解，并记录自己的粗浅理解，不作为任何商业用途。
 
 # Google Engineering Practices Documentation
 
