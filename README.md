@@ -1,3 +1,5 @@
+# for me just for fun.
+
 # Google Engineering Practices Documentation
 
 Google has many generalized engineering practices that cover all languages and
